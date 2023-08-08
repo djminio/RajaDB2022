@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectName>RajaDB</ProjectName>
+    <ProjectGuid>{4B6B4C03-3917-465D-A2C4-F1EEC4CC2251}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v143</PlatformToolset>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v143</PlatformToolset>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.CPP.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.CPP.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>16.0.31201.295</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>.\Release\</OutDir>
+    <IntDir>.\Release\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>E:\drserver\db4001</OutDir>
+    <IntDir>.\Debug\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Midl>
+      <TypeLibraryName>.\Release/RajaDB.tlb</TypeLibraryName>
+      <HeaderFileName />
+    </Midl>
+    <ClCompile>
+      <Optimization>MaxSpeed</Optimization>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <StringPooling>true</StringPooling>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <PrecompiledHeaderOutputFile>.\Release/RajaDB.pch</PrecompiledHeaderOutputFile>
+      <AssemblerListingLocation>.\Release/</AssemblerListingLocation>
+      <ObjectFileName>.\Release/</ObjectFileName>
+      <ProgramDataBaseFileName>.\Release/</ProgramDataBaseFileName>
+      <WarningLevel>Level3</WarningLevel>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0412</Culture>
+    </ResourceCompile>
+    <Link>
+      <AdditionalDependencies>odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>.\Release/RajaDB.exe</OutputFile>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <IgnoreSpecificDefaultLibraries>libc.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ProgramDatabaseFile>.\Release/RajaDB.pdb</ProgramDatabaseFile>
+      <SubSystem>Console</SubSystem>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+      <DataExecutionPrevention />
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\Release/RajaDB.bsc</OutputFile>
+    </Bscmake>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Midl>
+      <TypeLibraryName>.\Debug/RajaDB.tlb</TypeLibraryName>
+      <HeaderFileName />
+    </Midl>
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <StructMemberAlignment>4Bytes</StructMemberAlignment>
+      <PrecompiledHeaderOutputFile>.\Debug/RajaDB.pch</PrecompiledHeaderOutputFile>
+      <AssemblerListingLocation>.\Debug/</AssemblerListingLocation>
+      <ObjectFileName>.\Debug/</ObjectFileName>
+      <ProgramDataBaseFileName>.\Debug/</ProgramDataBaseFileName>
+      <BrowseInformation>true</BrowseInformation>
+      <WarningLevel>Level3</WarningLevel>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0412</Culture>
+    </ResourceCompile>
+    <Link>
+      <OutputFile>E:\drserver\db4001/RajaDB.exe</OutputFile>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <IgnoreSpecificDefaultLibraries>libc.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>.\Debug/RajaDB.pdb</ProgramDatabaseFile>
+      <SubSystem>Console</SubSystem>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+      <DataExecutionPrevention />
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\Debug/RajaDB.bsc</OutputFile>
+    </Bscmake>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="ASYNC\ASYNC.CPP" />
+    <ClCompile Include="ASYNC\CONNECTION.CPP" />
+    <ClCompile Include="ASYNC\HASHTABLE.CPP" />
+    <ClCompile Include="ASYNC\MSGPROC.CPP" />
+    <ClCompile Include="ASYNC\NETWORK.CPP" />
+    <ClCompile Include="ASYNC\RECVMSGASYNC.CPP" />
+    <ClCompile Include="ASYNC\STRUCT_F.CPP" />
+    <ClCompile Include="Auction.cpp" />
+    <ClCompile Include="CHINA\ABSTRACTSOCK.CPP" />
+    <ClCompile Include="CHINA\MYSOCKET.CPP" />
+    <ClCompile Include="CHINA\PACKETQ.CPP" />
+    <ClCompile Include="CHINA\POINTDATASTRUCT.CPP" />
+    <ClCompile Include="CHINA\QUERYDBSOCKET.CPP" />
+    <ClCompile Include="ChrLog.cpp" />
+    <ClCompile Include="CItem.cpp" />
+    <ClCompile Include="Debug.cpp" />
+    <ClCompile Include="DragonLogInServer.cpp" />
+    <ClCompile Include="dragonLoginServer2.cpp" />
+    <ClCompile Include="DrServerManager.cpp" />
+    <ClCompile Include="Hong_Sub.cpp" />
+    <ClCompile Include="Id.cpp" />
+    <ClCompile Include="init_npc_table.cpp" />
+    <ClCompile Include="ItemList.cpp" />
+    <ClCompile Include="kein_item_login.cpp" />
+    <ClCompile Include="LocalizingMgr.cpp" />
+    <ClCompile Include="LogInServer.cpp" />
+    <ClCompile Include="LottoDBMgr.cpp" />
+    <ClCompile Include="mailmgr.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="monitor.cpp" />
+    <ClCompile Include="mylog.cpp" />
+    <ClCompile Include="MySql.cpp" />
+    <ClCompile Include="NationSys.cpp" />
+    <ClCompile Include="network6.cpp" />
+    <ClCompile Include="network_base.cpp" />
+    <ClCompile Include="OP_Chr_Status.cpp" />
+    <ClCompile Include="packed.cpp" />
+    <ClCompile Include="Pay.cpp" />
+    <ClCompile Include="recvmsg.cpp" />
+    <ClCompile Include="RMProc.cpp" />
+    <ClCompile Include="r_Main.cpp" />
+    <ClCompile Include="Scrp_exe.cpp" />
+    <ClCompile Include="Scrp_int.cpp" />
+    <ClCompile Include="SealStone.cpp" />
+    <ClCompile Include="servertable.cpp" />
+    <ClCompile Include="ServerTable2.cpp" />
+    <ClCompile Include="ShopDemon.cpp" />
+    <ClCompile Include="StepMigration.cpp" />
+    <ClCompile Include="struct.cpp" />
+    <ClCompile Include="WinZS.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ASYNC\ASYNC.H" />
+    <ClInclude Include="ASYNC\CONNECTION.H" />
+    <ClInclude Include="ASYNC\DEFINE.H" />
+    <ClInclude Include="ASYNC\HASHTABLE.H" />
+    <ClInclude Include="ASYNC\MSGPROC.H" />
+    <ClInclude Include="ASYNC\NETWORK.H" />
+    <ClInclude Include="ASYNC\PROTOCOL.H" />
+    <ClInclude Include="ASYNC\RECVMSG.H" />
+    <ClInclude Include="ASYNC\STDAFX.H" />
+    <ClInclude Include="ASYNC\STRUCT.H" />
+    <ClInclude Include="Auction.h" />
+    <ClInclude Include="CharList.h" />
+    <ClInclude Include="CHINA\ABSTRACTSOCK.H" />
+    <ClInclude Include="CHINA\MYSOCKET.H" />
+    <ClInclude Include="CHINA\PACKETQ.H" />
+    <ClInclude Include="CHINA\POINTDATASTRUCT.H" />
+    <ClInclude Include="CHINA\QUERYDBSOCKET.H" />
+    <ClInclude Include="ChrLog.h" />
+    <ClInclude Include="CItem.h" />
+    <ClInclude Include="Debug.h" />
+    <ClInclude Include="define.h" />
+    <ClInclude Include="dragonLoginServer2.h" />
+    <ClInclude Include="DrServerManager.h" />
+    <ClInclude Include="Hong_Sub.h" />
+    <ClInclude Include="HSEL.h" />
+    <ClInclude Include="Id.h" />
+    <ClInclude Include="inetwork.h" />
+    <ClInclude Include="ItemList.h" />
+    <ClInclude Include="kein_item.h" />
+    <ClInclude Include="LocalizingMgr.h" />
+    <ClInclude Include="LottoDBMgr.h" />
+    <ClInclude Include="mailmgr.h" />
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="mainheader.h" />
+    <ClInclude Include="Map.h" />
+    <ClInclude Include="MenuDefine.h" />
+    <ClInclude Include="MenuServer.h" />
+    <ClInclude Include="monitor.h" />
+    <ClInclude Include="mylog.h" />
+    <ClInclude Include="MySql.h" />
+    <ClInclude Include="Network.h" />
+    <ClInclude Include="Network2.h" />
+    <ClInclude Include="network3.h" />
+    <ClInclude Include="NetWork4.h" />
+    <ClInclude Include="network6.h" />
+    <ClInclude Include="network_base.h" />
+    <ClInclude Include="network_guid.h" />
+    <ClInclude Include="NPC_Pattern.h" />
+    <ClInclude Include="Op_chr_status.h" />
+    <ClInclude Include="packed.h" />
+    <ClInclude Include="pay.h" />
+    <ClInclude Include="protocol.h" />
+    <ClInclude Include="recvmsg.h" />
+    <ClInclude Include="RMDefine.h" />
+    <ClInclude Include="Scrp_exe.h" />
+    <ClInclude Include="Scrp_int.h" />
+    <ClInclude Include="SealStone.h" />
+    <ClInclude Include="ServerIdentity.h" />
+    <ClInclude Include="servertable.h" />
+    <ClInclude Include="ServerTable2.h" />
+    <ClInclude Include="ShopDemon.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="StepMigration.h" />
+    <ClInclude Include="Struct.h" />
+    <ClInclude Include="typedef.h" />
+    <ClInclude Include="WinZS.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

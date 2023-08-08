@@ -1,0 +1,16 @@
+#pragma once
+
+#define DEFAULT_HEADER_SIZE_	1
+#define DEFAULT_MESSAGE_LENGTH_	2
+#define MAX_IP_LENGTH			32
+#define DEFAULT_QUEUE_NUM		128
+#define MAX_BUFFER_SIZE			128000
+#define MAX_PACKET_SIZE_		51200
+#define MAX_CHAT_MSG_LENGHT		255
+
+
+enum SOCKET_MSG
+{
+	WM_SOCKET_EVENT
+};
+

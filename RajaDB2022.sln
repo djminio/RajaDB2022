@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ultra_server", "RajaDB.vcxproj", "{4B6B4C03-3917-465D-A2C4-F1EEC4CC2251}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B6B4C03-3917-465D-A2C4-F1EEC4CC2251}.Debug|x86.ActiveCfg = Debug|Win32
+		{4B6B4C03-3917-465D-A2C4-F1EEC4CC2251}.Debug|x86.Build.0 = Debug|Win32
+		{4B6B4C03-3917-465D-A2C4-F1EEC4CC2251}.Release|x86.ActiveCfg = Release|Win32
+		{4B6B4C03-3917-465D-A2C4-F1EEC4CC2251}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1410963D-E7CF-4169-8E40-67F252604D7B}
+	EndGlobalSection
+EndGlobal

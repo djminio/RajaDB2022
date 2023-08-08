@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{b81350c0-3c8d-4936-a8b1-2f5530fece1d}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Source Files\module">
+      <UniqueIdentifier>{d6b81835-9b09-4c14-850a-398e8c0b190b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{329e7233-984f-420b-b6e0-f9bdaa230ed7}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CHINA\ABSTRACTSOCK.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ASYNC\ASYNC.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Auction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChrLog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ASYNC\CONNECTION.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DragonLogInServer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dragonLoginServer2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DrServerManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ASYNC\HASHTABLE.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hong_Sub.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Id.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="init_npc_table.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kein_item_login.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LocalizingMgr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LogInServer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LottoDBMgr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mailmgr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ASYNC\MSGPROC.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mylog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CHINA\MYSOCKET.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MySql.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NationSys.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ASYNC\NETWORK.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="network6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OP_Chr_Status.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CHINA\PACKETQ.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CHINA\POINTDATASTRUCT.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CHINA\QUERYDBSOCKET.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="r_Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ASYNC\RECVMSGASYNC.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RMProc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Scrp_exe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Scrp_int.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SealStone.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ServerTable2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShopDemon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StepMigration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ASYNC\STRUCT_F.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WinZS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files\module</Filter>
+    </ClCompile>
+    <ClCompile Include="monitor.cpp">
+      <Filter>Source Files\module</Filter>
+    </ClCompile>
+    <ClCompile Include="network_base.cpp">
+      <Filter>Source Files\module</Filter>
+    </ClCompile>
+    <ClCompile Include="packed.cpp">
+      <Filter>Source Files\module</Filter>
+    </ClCompile>
+    <ClCompile Include="recvmsg.cpp">
+      <Filter>Source Files\module</Filter>
+    </ClCompile>
+    <ClCompile Include="servertable.cpp">
+      <Filter>Source Files\module</Filter>
+    </ClCompile>
+    <ClCompile Include="struct.cpp">
+      <Filter>Source Files\module</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Auction.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LocalizingMgr.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="define.h">
+      <Filter>Source Files\module</Filter>
+    </ClInclude>
+    <ClInclude Include="inetwork.h">
+      <Filter>Source Files\module</Filter>
+    </ClInclude>
+    <ClInclude Include="mainheader.h">
+      <Filter>Source Files\module</Filter>
+    </ClInclude>
+    <ClInclude Include="monitor.h">
+      <Filter>Source Files\module</Filter>
+    </ClInclude>
+    <ClInclude Include="network_base.h">
+      <Filter>Source Files\module</Filter>
+    </ClInclude>
+    <ClInclude Include="network_guid.h">
+      <Filter>Source Files\module</Filter>
+    </ClInclude>
+    <ClInclude Include="packed.h">
+      <Filter>Source Files\module</Filter>
+    </ClInclude>
+    <ClInclude Include="protocol.h">
+      <Filter>Source Files\module</Filter>
+    </ClInclude>
+    <ClInclude Include="recvmsg.h">
+      <Filter>Source Files\module</Filter>
+    </ClInclude>
+    <ClInclude Include="servertable.h">
+      <Filter>Source Files\module</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct.h">
+      <Filter>Source Files\module</Filter>
+    </ClInclude>
+    <ClInclude Include="typedef.h">
+      <Filter>Source Files\module</Filter>
+    </ClInclude>
+    <ClInclude Include="CHINA\ABSTRACTSOCK.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASYNC\ASYNC.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CharList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChrLog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CItem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASYNC\CONNECTION.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASYNC\DEFINE.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dragonLoginServer2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DrServerManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASYNC\HASHTABLE.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hong_Sub.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HSEL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Id.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kein_item.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LottoDBMgr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mailmgr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuDefine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuServer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASYNC\MSGPROC.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mylog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CHINA\MYSOCKET.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MySql.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASYNC\NETWORK.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Network.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Network2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="network3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NetWork4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="network6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC_Pattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Op_chr_status.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CHINA\PACKETQ.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CHINA\POINTDATASTRUCT.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASYNC\PROTOCOL.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CHINA\QUERYDBSOCKET.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASYNC\RECVMSG.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RMDefine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Scrp_exe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Scrp_int.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SealStone.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ServerIdentity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ServerTable2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShopDemon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASYNC\STDAFX.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StepMigration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASYNC\STRUCT.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WinZS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

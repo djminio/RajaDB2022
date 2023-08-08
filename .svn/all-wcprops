@@ -1,0 +1,557 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/rajasvn/DragonRaja/!svn/ver/138/DBDemon
+END
+Network.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/89/DBDemon/Network.h
+END
+RMDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/RMDefine.h
+END
+SealStone.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/SealStone.h
+END
+Hong_Sub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/Hong_Sub.cpp
+END
+ServerTable2.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/ServerTable2.h
+END
+init_npc_table.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/init_npc_table.cpp
+END
+MySql.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/rajasvn/DragonRaja/!svn/ver/40/DBDemon/MySql.h
+END
+recvmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/recvmsg.h
+END
+dragonLoginServer2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rajasvn/DragonRaja/!svn/ver/99/DBDemon/dragonLoginServer2.cpp
+END
+servertable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/servertable.cpp
+END
+WinZS.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/WinZS.h
+END
+network6.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/network6.h
+END
+MenuDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/MenuDefine.h
+END
+DrServerManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/DrServerManager.cpp
+END
+kein_item_login.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/kein_item_login.cpp
+END
+SealStone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/SealStone.cpp
+END
+RajaDB.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/rajasvn/DragonRaja/!svn/ver/138/DBDemon/RajaDB.vcproj
+END
+MySql.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/40/DBDemon/MySql.cpp
+END
+typedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/typedef.h
+END
+CItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/CItem.h
+END
+inetwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/inetwork.h
+END
+Scrp_exe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/Scrp_exe.cpp
+END
+Hong_Sub.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/Hong_Sub.h
+END
+kein_item.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/kein_item.h
+END
+ChrLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/ChrLog.cpp
+END
+network6.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/network6.cpp
+END
+dragonLoginServer2.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/rajasvn/DragonRaja/!svn/ver/99/DBDemon/dragonLoginServer2.h
+END
+Op_chr_status.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/rajasvn/DragonRaja/!svn/ver/99/DBDemon/Op_chr_status.h
+END
+NPC_Pattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/NPC_Pattern.h
+END
+servertable.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/servertable.h
+END
+NationSys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/NationSys.cpp
+END
+network_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/network_base.h
+END
+Pay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/Pay.cpp
+END
+ShopDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/ShopDefine.h
+END
+ItemList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/ItemList.cpp
+END
+DragonLogInServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/DragonLogInServer.cpp
+END
+packed.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/packed.h
+END
+mylog.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/mylog.h
+END
+monitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/monitor.h
+END
+Id.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/Id.cpp
+END
+ShopDemon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/ShopDemon.cpp
+END
+RajaDB.sln
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/RajaDB.sln
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/stdafx.h
+END
+pay.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/pay.h
+END
+LogInServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/LogInServer.cpp
+END
+define.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/define.h
+END
+MenuServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/MenuServer.h
+END
+CItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/CItem.cpp
+END
+Auction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/Auction.cpp
+END
+RMProc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/RMProc.cpp
+END
+r_Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/r_Main.cpp
+END
+LocalizingMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/LocalizingMgr.h
+END
+Scrp_exe.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/Scrp_exe.h
+END
+CharList.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/CharList.h
+END
+network3.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/network3.h
+END
+Map.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/Map.h
+END
+LottoDBMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/LottoDBMgr.h
+END
+NetWork4.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/NetWork4.h
+END
+network_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/network_base.cpp
+END
+ChrLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/ChrLog.h
+END
+struct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/struct.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/main.cpp
+END
+ServerIdentity.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/ServerIdentity.h
+END
+Scrp_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/Scrp_int.h
+END
+Debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/Debug.cpp
+END
+monitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/monitor.cpp
+END
+mylog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/mylog.cpp
+END
+packed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/packed.cpp
+END
+mailmgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/mailmgr.cpp
+END
+Struct.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/Struct.h
+END
+Main.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/Main.h
+END
+StepMigration.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/StepMigration.h
+END
+ItemList.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/ItemList.h
+END
+ServerTable2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/ServerTable2.cpp
+END
+HSEL.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/HSEL.h
+END
+ShopDemon.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/ShopDemon.h
+END
+Id.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/Id.h
+END
+LocalizingMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/LocalizingMgr.cpp
+END
+mainheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/mainheader.h
+END
+network_guid.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/network_guid.h
+END
+protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rajasvn/DragonRaja/!svn/ver/129/DBDemon/protocol.h
+END
+recvmsg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/recvmsg.cpp
+END
+Auction.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/Auction.h
+END
+WinZS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/WinZS.cpp
+END
+OP_Chr_Status.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/rajasvn/DragonRaja/!svn/ver/99/DBDemon/OP_Chr_Status.cpp
+END
+LottoDBMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/LottoDBMgr.cpp
+END
+Network2.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/rajasvn/DragonRaja/!svn/ver/89/DBDemon/Network2.h
+END
+Scrp_int.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/Scrp_int.cpp
+END
+StepMigration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/StepMigration.cpp
+END
+Debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/Debug.h
+END
+DrServerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/DrServerManager.h
+END
+mailmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/rajasvn/DragonRaja/!svn/ver/4/DBDemon/mailmgr.h
+END

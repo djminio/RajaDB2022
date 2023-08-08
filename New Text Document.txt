@@ -1,0 +1,14 @@
+char lpszName[20];
+				GetDlgItemText( hDlg, IDC_EDIT_TOOL_PW, lpszName, 20 );
+				if( !(*lpszName) )
+				{
+					return false;
+				}
+				SendLogOutCharacter( lpszName );
+
+
+
+
+if (strlen(text) >= 260) return;
+
+int who = ExistHe( name );
